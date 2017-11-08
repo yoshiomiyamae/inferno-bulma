@@ -1,0 +1,14 @@
+{
+  "name": "react-bulma",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "typings": "src/index",
+  "author": "Yoshio Miyamae <yoshio.miyamae@famoce-succellion.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bulma": "^0.6.0",
+    "inferno-component": "^3.10.1",
+    "inferno-create-element": "^3.10.1"
+  },
+  "devDependencies": {}
+}
